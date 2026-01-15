@@ -97,4 +97,4 @@ Built an AI-assisted, multilingual structural defect detection system using Gemi
 
 ## 📂 Repository
 
-https://github.com/anuragkumarsingh4440-netizen/Structural_defects2.git
+https://github.com/Bharath6868/Structural_Defects_2
